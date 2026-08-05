@@ -6,6 +6,8 @@ class Employee:
         self.name = "Irfan Muhammad"
         self.salary = 100000
         self.designation = "Software Engineer"
+        self.location = "lahore"
+
         print("Employee data/attributes initialized.")
 
     def travel(self):

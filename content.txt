@@ -10,6 +10,10 @@
     > easy to colab
 
 5.End to End Project Done..
+    > Function vs Methods
+    > magic method and dhunder method
+    > self
+    > you can create attributes outside from class
     > Encapsulation
     > getter and setter 
     > static methods
