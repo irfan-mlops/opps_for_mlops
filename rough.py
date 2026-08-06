@@ -17,6 +17,7 @@ from oops_project import chatbook
 usser1 = chatbook()
 print(usser1.id)
 
+# We can use directly class to use static method.
 chatbook.set_id(11)
 
 usser2 = chatbook()
